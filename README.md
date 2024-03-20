@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on prometh<br>🌱 I’m currently learning python and database development<br>💬 Ask me about twitter<br>⚡ Fun fact - Ich pflege immer zu sagen, der frühe Vogel fängt die Stulle
+🔭 I’m currently working on serenity<br>🌱 I’m currently learning development for non relative databases.<br>💬 Ask me about twitter<br>⚡ Fun fact - Ich pflege immer zu sagen, der frühe Vogel fängt die Stulle
 
 
 ## 🌐 Socials:
