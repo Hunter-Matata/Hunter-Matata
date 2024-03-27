@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on serenity<br>🌱 I’m currently learning C++ and mastering python.<br>💬 Ask me about twitter<br>⚡ Fun fact - Ich pflege immer zu sagen, der frühe Vogel fängt die Stulle
 
-## 🗿 Language Statistics:
-![](https://wakatime.com/share/@018e6f7c-0c98-4886-aa34-6bbc85410256/69fe98d6-fae6-4430-8e57-ac89ab1a8d8b.svg)<br/>
 
 
 ## 🌐 Socials:
@@ -14,6 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hunter-Matata&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hunter-Matata&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-Matata&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+# 🗿 Language Statistics:
+![](https://wakatime.com/share/@018e6f7c-0c98-4886-aa34-6bbc85410256/69fe98d6-fae6-4430-8e57-ac89ab1a8d8b.svg)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hunter-Matata&icon=0&color=12)](https://visitcount.itsvg.in)
