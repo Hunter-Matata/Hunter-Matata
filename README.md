@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on serenity<br>🌱 I’m currently learning C++ and mastering python.<br>💬 Ask me about twitter<br>⚡ Fun fact - Ich pflege immer zu sagen, der frühe Vogel fängt die Stulle
 
+## 🗿 Language Statistics:
+![](https://wakatime.com/share/@018e6f7c-0c98-4886-aa34-6bbc85410256/69fe98d6-fae6-4430-8e57-ac89ab1a8d8b.svg)<br/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mullencord) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eivoran) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HunterMatata) 
