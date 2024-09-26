@@ -2,7 +2,7 @@
   
   ## <strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"></strong><br/>
   <div style="margin-left: 60px; display: inline-block;">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=400&lines=I+am+a+self-taught+developer.;Full+Stack+Developer.;cops.bio+owner." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=400&lines=self-taught+developer;full+stack+developer;cops.bio+owner" alt="Typing SVG" />
   </div>
   
 </div>
