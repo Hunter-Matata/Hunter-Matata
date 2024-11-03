@@ -1,9 +1,9 @@
 <div align="center">
   
   ## <strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"></strong><br/>
-  <div style="margin-left: 60px; display: inline-block;">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=400&lines=self-taught+developer;full+stack+developer;cops.bio+owner;arch+linux+btw" alt="Typing SVG" />
-  </div>
+  <p align="center">
+    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
+  </p>
   
 </div>
 
@@ -11,6 +11,9 @@
   <a href="https://discord.gg/mullencord">
     <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
   </a>
+    <p align="center">  
+      <img src="https://komarev.com/ghpvc/?username=Hunter-Matata">
+    </p>
 </div>
 
 ## <div align="center">💻 Tech Stack:</div>
@@ -48,7 +51,6 @@
 
 ## <div align="center">📊 GitHub Stats:</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter-Matata&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-Matata&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 </div>
 
