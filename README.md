@@ -2,7 +2,7 @@
   
   ## <strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"></strong><br/>
   <p align="center">
-    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=self-taught+python+developer;full+stack+developer;cops.bio+owner;"></a>
+    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=self-taught+python+developer;full+stack+developer;cops.bio+owner;fick+die+bitch;"></a>
   </p>
   
 </div>
