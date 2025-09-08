@@ -94,13 +94,13 @@ Sunday                   5037 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +116,5 @@ Luau                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 00:17:50 UTC
+ Last Updated on 08/09/2025 00:15:17 UTC
 <!--END_SECTION:waka-->
