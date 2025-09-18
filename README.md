@@ -51,6 +51,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2046%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -78,5 +80,5 @@ Luau                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 00:16:05 UTC
+ Last Updated on 18/09/2025 00:15:56 UTC
 <!--END_SECTION:waka-->
