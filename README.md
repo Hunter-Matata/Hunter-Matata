@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/mullencord">
+  <a href="https://artemis-cheats.net">
     <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
   </a>
     <p align="center">  
