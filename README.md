@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=header&text=Hunter-Matata&fontSize=40&fontColor=888888&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=header&text=charlie&fontSize=40&fontColor=888888&fontAlignY=65&animation=fadeIn" />
 </div>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Hunter-Matata&color=444444&style=flat-square)
