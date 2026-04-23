@@ -68,76 +68,24 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs%2047%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.07%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 702.9 kB Used in GitHub's Storage 
- > 
-> 🏆 2,201 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 60 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
 ```text
-🌞 Morning                4484 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌆 Daytime                9048 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
-🌃 Evening                9185 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
-🌙 Night                  3276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-📅 **I'm Most Productive on Monday** 
+Total this week   24 hrs 48 mins
 
-```text
-Monday                   4904 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Tuesday                  3587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                3969 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Thursday                 3878 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Friday                   3160 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Saturday                 3293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Sunday                   3202 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Languages:
+C++                      10 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.23 %
+Python                   3 hrs 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.99 %
+C/C                      3 hrs 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.31 %
+TypeScript               2 hrs 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Go                       1 hr 33 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26 %
+
+Editors:
+CLion                    13 hrs 50 mins   █████████████░░░░░░░░░░░░   55.71 %
+VS Code                  10 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   41.89 %
+IntelliJ IDEA            35 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39 %
+
+OS:
+Windows                  24 hrs 50 mins   █████████████████████████   100.00 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-C++                      15 hrs 10 mins      █████████████░░░░░░░░░░░░   52.06 % 
-C/C                      5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Python                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Go                       1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🔥 Editors: 
-CLion                    20 hrs 12 mins      █████████████████░░░░░░░░   69.29 % 
-VS Code                  8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-IntelliJ IDEA            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-
-💻 Operating System: 
-Windows                  29 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               26 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-C++                      13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-```
-
-
-
-
- Last Updated on 23/04/2026 00:32:52 UTC
+*Last updated: 23/04/2026 20:57:41 UTC*
 <!--END_SECTION:waka-->
