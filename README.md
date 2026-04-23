@@ -1,57 +1,65 @@
 <div align="center">
-  
-  ## <strong>Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2.5%"></strong><br/>
-  <p align="center">
-    <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=25&center=true&lines=hi;full+stack+developer;cops.bio+owner;reverse+engineering;"></a>
-  </p>
-  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Hunter-Matata&color=444444&style=flat-square)
+
 </div>
 
-<div align="center">
-  <a href="https://artemis-cheats.net">
-    <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
-  </a>
-    <p align="center">  
-      <img src="https://komarev.com/ghpvc/?username=Hunter-Matata">
-    </p>
-</div>
+---
 
-## <div align="center">💻 Tech Stack:</div>
+## Tech Stack
+
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trpc.png" alt="tRPC" title="tRPC"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ssh.png" alt="SSH" title="SSH"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" title="Maven"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
+
+<!-- Protocols & Tools -->
+<img src="https://img.shields.io/badge/HTTP-1e1e1e?style=flat-square&logo=http&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/REST-1e1e1e?style=flat-square&logo=rest&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/tRPC-1e1e1e?style=flat-square&logo=trpc&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/SSH-1e1e1e?style=flat-square&logo=openssh&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Git-1e1e1e?style=flat-square&logo=git&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/GitHub-1e1e1e?style=flat-square&logo=github&logoColor=aaaaaa" />
+
+<!-- IDEs -->
+<img src="https://img.shields.io/badge/IntelliJ-1e1e1e?style=flat-square&logo=intellijidea&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/PyCharm-1e1e1e?style=flat-square&logo=pycharm&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/CLion-1e1e1e?style=flat-square&logo=clion&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/VS%20Code-1e1e1e?style=flat-square&logo=visualstudiocode&logoColor=aaaaaa" />
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML-1e1e1e?style=flat-square&logo=html5&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/CSS-1e1e1e?style=flat-square&logo=css3&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Tailwind-1e1e1e?style=flat-square&logo=tailwindcss&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=flat-square&logo=javascript&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=flat-square&logo=typescript&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/React-1e1e1e?style=flat-square&logo=react&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Next.js-1e1e1e?style=flat-square&logo=nextdotjs&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Vite-1e1e1e?style=flat-square&logo=vite&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Node.js-1e1e1e?style=flat-square&logo=nodedotjs&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/npm-1e1e1e?style=flat-square&logo=npm&logoColor=aaaaaa" />
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Java-1e1e1e?style=flat-square&logo=openjdk&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Maven-1e1e1e?style=flat-square&logo=apachemaven&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/C-1e1e1e?style=flat-square&logo=c&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=cplusplus&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Lua-1e1e1e?style=flat-square&logo=lua&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Go-1e1e1e?style=flat-square&logo=go&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Rust-1e1e1e?style=flat-square&logo=rust&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/FastAPI-1e1e1e?style=flat-square&logo=fastapi&logoColor=aaaaaa" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/MySQL-1e1e1e?style=flat-square&logo=mysql&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Redis-1e1e1e?style=flat-square&logo=redis&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/SQLite-1e1e1e?style=flat-square&logo=sqlite&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/MariaDB-1e1e1e?style=flat-square&logo=mariadb&logoColor=aaaaaa" />
+
+<!-- Infra -->
+<img src="https://img.shields.io/badge/Bash-1e1e1e?style=flat-square&logo=gnubash&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Docker-1e1e1e?style=flat-square&logo=docker&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Kubernetes-1e1e1e?style=flat-square&logo=kubernetes&logoColor=aaaaaa" />
+<img src="https://img.shields.io/badge/Nginx-1e1e1e?style=flat-square&logo=nginx&logoColor=aaaaaa" />
+
 </div>
 
 ---
