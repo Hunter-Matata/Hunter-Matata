@@ -69,23 +69,30 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Total this week   24 hrs 48 mins
+GitHub:
+Contributions 2026       2255
+Current streak           0 days
+Longest streak           63 days
+Public repos             3
+Private repos            61
+
+Total this week   31 hrs 30 mins
 
 Languages:
-C++                      10 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.23 %
-Python                   3 hrs 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.99 %
-C/C                      3 hrs 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.31 %
-TypeScript               2 hrs 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Go                       1 hr 33 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26 %
+C++                      11 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   37.46 %
+TypeScript               7 hrs 17 mins    █████░░░░░░░░░░░░░░░░░░░░   23.11 %
+C/C                      3 hrs 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Python                   3 hrs 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Go                       1 hr 40 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31 %
 
 Editors:
-CLion                    13 hrs 50 mins   █████████████░░░░░░░░░░░░   55.71 %
-VS Code                  10 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   41.89 %
-IntelliJ IDEA            35 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39 %
+VS Code                  15 hrs 51 mins   ████████████░░░░░░░░░░░░░   50.26 %
+CLion                    15 hrs 1 min     ███████████░░░░░░░░░░░░░░   47.64 %
+IntelliJ IDEA            39 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09 %
 
 OS:
-Windows                  24 hrs 50 mins   █████████████████████████   100.00 %
+Windows                  31 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
-*Last updated: 24/04/2026 00:25:44 UTC*
+*Last updated: 24/04/2026 06:22:03 UTC*
 <!--END_SECTION:waka-->
