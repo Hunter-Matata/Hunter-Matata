@@ -77,23 +77,23 @@ Public repos             3
 Private repos            61
 
 
-Total this week   24 hrs 11 mins
+Total this week   20 hrs 58 mins
 
 Languages:
-TypeScript               13 hrs 56 mins   ██████████████░░░░░░░░░░░   57.61 %
-C++                      5 hrs 29 mins    █████░░░░░░░░░░░░░░░░░░░░   22.67 %
-C/C                      2 hrs 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-CSS                      33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28 %
-JSON                     24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68 %
+TypeScript               13 hrs 56 mins   ████████████████░░░░░░░░░   66.45 %
+C++                      3 hrs 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   15.02 %
+C/C                      2 hrs            ██░░░░░░░░░░░░░░░░░░░░░░░   9.57 %
+CSS                      33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63 %
+JSON                     24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94 %
 
 Editors:
-VS Code                  16 hrs 41 mins   █████████████████░░░░░░░░   68.99 %
-CLion                    7 hrs 24 mins    ███████░░░░░░░░░░░░░░░░░░   30.64 %
-IntelliJ IDEA            5 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37 %
+VS Code                  15 hrs 40 mins   ██████████████████░░░░░░░   74.76 %
+CLion                    5 hrs 12 mins    ██████░░░░░░░░░░░░░░░░░░░   24.81 %
+IntelliJ IDEA            5 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43 %
 
 OS:
-Windows                  24 hrs 11 mins   █████████████████████████   100.00 %
+Windows                  20 hrs 58 mins   █████████████████████████   100.00 %
 ```
 
-*Last updated: 03/05/2026 00:27:57 UTC*
+*Last updated: 04/05/2026 00:28:07 UTC*
 <!--END_SECTION:waka-->
