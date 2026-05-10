@@ -77,22 +77,22 @@ Public repos             3
 Private repos            61
 
 
-Total this week   2 hrs 37 mins
+Total this week   5 hrs 8 mins
 
 Languages:
-TypeScript               1 hr 12 mins     ███████████░░░░░░░░░░░░░░   46.06 %
-Python                   31 mins          █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-C++                      26 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Bash                     12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   7.81 %
-JavaScript               9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   5.97 %
+TypeScript               3 hrs 3 mins     ██████████████░░░░░░░░░░░   59.12 %
+Bash                     35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Python                   31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+C++                      26 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   8.49 %
+YAML                     12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.97 %
 
 Editors:
-VS Code                  2 hrs 11 mins    ████████████████████░░░░░   83.08 %
-CLion                    26 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
+VS Code                  4 hrs 41 mins    ██████████████████████░░░   90.78 %
+CLion                    28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   9.22 %
 
 OS:
-Windows                  2 hrs 37 mins    █████████████████████████   100.00 %
+Windows                  5 hrs 10 mins    █████████████████████████   100.00 %
 ```
 
-*Last updated: 09/05/2026 00:29:51 UTC*
+*Last updated: 10/05/2026 00:29:27 UTC*
 <!--END_SECTION:waka-->
