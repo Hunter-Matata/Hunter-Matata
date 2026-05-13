@@ -70,31 +70,31 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       2431
+Contributions 2026       2435
 Current streak           0 days
 Longest streak           63 days
 Public repos             3
-Private repos            61
+Private repos            60
 
 
-Total this week   5 hrs 40 mins
+Total this week   7 hrs 23 mins
 
 Languages:
-TypeScript               3 hrs 23 mins    ██████████████░░░░░░░░░░░   59.24 %
-Bash                     37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Python                   31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   9.29 %
-C++                      26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   7.68 %
-YAML                     12 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.59 %
+TypeScript               4 hrs 57 mins    ████████████████░░░░░░░░░   66.88 %
+Bash                     37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
+C++                      26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   5.91 %
+Python                   21 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   4.93 %
+Docker                   13 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09 %
 
 Editors:
-VS Code                  5 hrs 2 mins     ██████████████████████░░░   88.35 %
-CLion                    28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   8.34 %
-IntelliJ IDEA            11 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31 %
+VS Code                  6 hrs 45 mins    ██████████████████████░░░   91.03 %
+CLion                    28 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   6.42 %
+IntelliJ IDEA            11 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55 %
 
 OS:
-Windows                  5 hrs 31 mins    ████████████████████████░   96.69 %
-Mac                      11 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31 %
+Windows                  7 hrs 13 mins    ████████████████████████░   97.45 %
+Mac                      11 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55 %
 ```
 
-*Last updated: 12/05/2026 00:29:33 UTC*
+*Last updated: 13/05/2026 00:32:04 UTC*
 <!--END_SECTION:waka-->
