@@ -70,27 +70,27 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       2598
+Contributions 2026       2601
 Current streak           0 days
 Longest streak           63 days
 Public repos             3
 Private repos            62
 
 
-Total this week   23 mins
+Total this week   9 mins
 
 Languages:
-C++                      18 mins          ███████████████████░░░░░░   78.51 %
-Python                   5 mins           █████░░░░░░░░░░░░░░░░░░░░   21.37 %
-Objective-C              0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12 %
+Python                   5 mins           █████████████░░░░░░░░░░░░   54.96 %
+C++                      4 mins           ███████████░░░░░░░░░░░░░░   44.69 %
+JSON                     0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35 %
 
 Editors:
-VS Code                  23 mins          ████████████████████████░   99.96 %
-CLion                    0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04 %
+VS Code                  9 mins           ████████████████████████░   99.90 %
+CLion                    0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.10 %
 
 OS:
-Windows                  23 mins          █████████████████████████   100.00 %
+Windows                  9 mins           █████████████████████████   100.00 %
 ```
 
-*Last updated: 05/06/2026 00:37:49 UTC*
+*Last updated: 06/06/2026 00:35:46 UTC*
 <!--END_SECTION:waka-->
