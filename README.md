@@ -77,21 +77,22 @@ Public repos             3
 Private repos            63
 
 
-Total this week   28 mins
+Total this week   17 mins
 
 Languages:
-C++                      22 mins          ███████████████████░░░░░░   78.20 %
-TypeScript               6 mins           █████░░░░░░░░░░░░░░░░░░░░   21.18 %
-C/C                      0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59 %
-CMake                    0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03 %
+Docker                   9 mins           █████████████░░░░░░░░░░░░   53.65 %
+TypeScript               6 mins           ████████░░░░░░░░░░░░░░░░░   34.21 %
+C++                      1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   9.16 %
+Bash                     0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   2.30 %
+C/C                      0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64 %
 
 Editors:
-CLion                    22 mins          ███████████████████░░░░░░   78.82 %
-VS Code                  6 mins           █████░░░░░░░░░░░░░░░░░░░░   21.18 %
+VS Code                  16 mins          ██████████████████████░░░   90.15 %
+CLion                    1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   9.85 %
 
 OS:
-Windows                  28 mins          █████████████████████████   100.00 %
+Windows                  17 mins          █████████████████████████   100.00 %
 ```
 
-*Last updated: 22/06/2026 00:40:09 UTC*
+*Last updated: 23/06/2026 00:37:06 UTC*
 <!--END_SECTION:waka-->
