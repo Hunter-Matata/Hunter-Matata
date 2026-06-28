@@ -70,29 +70,27 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       2719
+Contributions 2026       2732
 Current streak           0 days
 Longest streak           63 days
 Public repos             3
 Private repos            63
 
 
-Total this week   12 mins
+Total this week   23 mins
 
 Languages:
-Docker                   9 mins           ███████████████████░░░░░░   78.21 %
-C++                      1 min            ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Bash                     0 secs           █░░░░░░░░░░░░░░░░░░░░░░░░   5.04 %
-TypeScript               0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39 %
-C/C                      0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93 %
+TypeScript               13 mins          ██████████████░░░░░░░░░░░   56.87 %
+Docker                   9 mins           ██████████░░░░░░░░░░░░░░░   40.52 %
+Bash                     0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61 %
 
 Editors:
-VS Code                  10 mins          █████████████████████░░░░   85.65 %
-CLion                    1 min            ███░░░░░░░░░░░░░░░░░░░░░░   14.35 %
+VS Code                  23 mins          █████████████████████████   100.00 %
 
 OS:
-Windows                  12 mins          █████████████████████████   100.00 %
+Windows                  22 mins          ████████████████████████░   97.01 %
+Mac                      0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99 %
 ```
 
-*Last updated: 27/06/2026 00:35:39 UTC*
+*Last updated: 28/06/2026 00:35:39 UTC*
 <!--END_SECTION:waka-->
