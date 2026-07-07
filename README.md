@@ -70,32 +70,32 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       2970
+Contributions 2026       2972
 Current streak           0 days
 Longest streak           63 days
 Public repos             3
 Private repos            63
 
 
-Total this week   45 hrs 7 mins
+Total this week   46 hrs
 
 Languages:
-TypeScript               37 hrs 26 mins   ████████████████████░░░░░   82.64 %
-C                        1 hr 55 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.25 %
-C++                      1 hr 52 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15 %
-SQL                      1 hr 9 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57 %
-Python                   44 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62 %
+TypeScript               37 hrs 47 mins   ████████████████████░░░░░   81.78 %
+C                        1 hr 55 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.17 %
+C++                      1 hr 52 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.07 %
+SQL                      1 hr 24 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04 %
+Python                   51 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
 
 Editors:
-Codex CLI                40 hrs 40 mins   ██████████████████████░░░   89.74 %
-VS Code                  4 hrs 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.91 %
-CLion                    7 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27 %
+Codex CLI                41 hrs 54 mins   ██████████████████████░░░   90.70 %
+VS Code                  4 hrs 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96 %
+CLion                    7 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26 %
 IntelliJ IDEA            2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
 
 OS:
-Windows                  23 hrs 24 mins   ████████████░░░░░░░░░░░░░   51.67 %
-Mac                      21 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.33 %
+Mac                      28 hrs 54 mins   ███████████████░░░░░░░░░░   62.59 %
+Windows                  17 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   37.41 %
 ```
 
-*Last updated: 06/07/2026 00:31:01 UTC*
+*Last updated: 07/07/2026 00:31:59 UTC*
 <!--END_SECTION:waka-->
