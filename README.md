@@ -70,31 +70,32 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       2976
+Contributions 2026       2996
 Current streak           0 days
 Longest streak           63 days
 Public repos             3
-Private repos            63
+Private repos            64
 
 
-Total this week   42 hrs 10 mins
+Total this week   29 hrs 3 mins
 
 Languages:
-TypeScript               34 hrs 8 mins    ████████████████████░░░░░   80.58 %
-C                        1 hr 55 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.54 %
-C++                      1 hr 52 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44 %
-SQL                      1 hr 24 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31 %
-Python                   51 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02 %
+TypeScript               22 hrs 48 mins   ███████████████████░░░░░░   77.78 %
+C++                      1 hr 35 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45 %
+C                        1 hr 13 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.20 %
+SQL                      1 hr             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47 %
+Python                   54 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09 %
 
 Editors:
-Visual Studio Code       42 hrs 13 mins   ████████████████████████░   99.62 %
-CLion                    7 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29 %
-IntelliJ IDEA            2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09 %
+Visual Studio Code       28 hrs 42 mins   ████████████████████████░   97.93 %
+CLion                    20 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15 %
+Claude Code              14 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81 %
+IntelliJ IDEA            1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11 %
 
 OS:
-Mac                      29 hrs 44 mins   █████████████████░░░░░░░░   70.20 %
-Windows                  12 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   29.80 %
+Mac                      23 hrs 26 mins   ███████████████████░░░░░░   79.99 %
+Windows                  5 hrs 51 mins    █████░░░░░░░░░░░░░░░░░░░░   20.01 %
 ```
 
-*Last updated: 08/07/2026 00:26:19 UTC*
+*Last updated: 10/07/2026 00:31:18 UTC*
 <!--END_SECTION:waka-->
