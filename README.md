@@ -70,31 +70,31 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       3003
+Contributions 2026       3007
 Current streak           0 days
 Longest streak           63 days
 Public repos             4
 Private repos            64
 
 
-Total this week   30 hrs 27 mins
+Total this week   24 hrs 14 mins
 
 Languages:
-TypeScript               17 hrs 9 mins    █████████████░░░░░░░░░░░░   55.88 %
-Swift                    5 hrs 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-C++                      3 hrs 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Markdown                 46 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51 %
-SQL                      42 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29 %
+TypeScript               11 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.87 %
+Swift                    4 hrs 53 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+C++                      3 hrs 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
+Markdown                 52 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.56 %
+CSS                      36 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47 %
 
 Editors:
-Visual Studio Code       23 hrs 55 mins   ███████████████████░░░░░░   77.91 %
-Claude Code              6 hrs 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.79 %
-CLion                    24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31 %
+Visual Studio Code       16 hrs 21 mins   ████████████████░░░░░░░░░   67.03 %
+Claude Code              7 hrs 38 mins    ███████░░░░░░░░░░░░░░░░░░   31.32 %
+CLion                    24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65 %
 
 OS:
-Mac                      24 hrs 52 mins   ████████████████████░░░░░   81.03 %
-Windows                  5 hrs 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.97 %
+Mac                      16 hrs 58 mins   █████████████████░░░░░░░░   69.64 %
+Windows                  7 hrs 24 mins    ███████░░░░░░░░░░░░░░░░░░   30.36 %
 ```
 
-*Last updated: 12/07/2026 00:26:36 UTC*
+*Last updated: 13/07/2026 00:26:23 UTC*
 <!--END_SECTION:waka-->
