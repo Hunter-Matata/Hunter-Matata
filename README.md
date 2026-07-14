@@ -77,24 +77,24 @@ Public repos             4
 Private repos            64
 
 
-Total this week   24 hrs 14 mins
+Total this week   19 hrs 4 mins
 
 Languages:
-TypeScript               11 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.87 %
-Swift                    4 hrs 53 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-C++                      3 hrs 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Markdown                 52 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.56 %
-CSS                      36 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47 %
+TypeScript               5 hrs 23 mins    ██████░░░░░░░░░░░░░░░░░░░   27.64 %
+Swift                    4 hrs 53 mins    ██████░░░░░░░░░░░░░░░░░░░   25.15 %
+C++                      3 hrs 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.75 %
+Python                   1 hr 23 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17 %
+Markdown                 1 hr 9 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.92 %
 
 Editors:
-Visual Studio Code       16 hrs 21 mins   ████████████████░░░░░░░░░   67.03 %
-Claude Code              7 hrs 38 mins    ███████░░░░░░░░░░░░░░░░░░   31.32 %
-CLion                    24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65 %
+Visual Studio Code       10 hrs 58 mins   ██████████████░░░░░░░░░░░   56.28 %
+Claude Code              8 hrs 7 mins     ██████████░░░░░░░░░░░░░░░   41.66 %
+CLion                    24 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06 %
 
 OS:
-Mac                      16 hrs 58 mins   █████████████████░░░░░░░░   69.64 %
-Windows                  7 hrs 24 mins    ███████░░░░░░░░░░░░░░░░░░   30.36 %
+Mac                      9 hrs 54 mins    ████████████░░░░░░░░░░░░░   50.82 %
+Windows                  9 hrs 34 mins    ████████████░░░░░░░░░░░░░   49.18 %
 ```
 
-*Last updated: 13/07/2026 00:26:23 UTC*
+*Last updated: 14/07/2026 00:23:36 UTC*
 <!--END_SECTION:waka-->
