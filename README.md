@@ -70,29 +70,29 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       3551
+Contributions 2026       3577
 Current streak           0 days
 Longest streak           63 days
 Public repos             4
 Private repos            68
 
 
-Total this week   42 hrs 49 mins
+Total this week   40 hrs 10 mins
 
 Languages:
-Python                   16 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   38.57 %
-TypeScript               15 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   35.85 %
-MDX                      1 hr 55 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.41 %
-Lua                      1 hr 50 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.24 %
-Markdown                 1 hr 31 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.50 %
+Python                   18 hrs 13 mins   ███████████░░░░░░░░░░░░░░   45.09 %
+TypeScript               13 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+Lua                      1 hr 50 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.56 %
+MDX                      1 hr 17 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21 %
+CSS                      55 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27 %
 
 Editors:
-Visual Studio Code       43 hrs 30 mins   █████████████████████████   100.00 %
+Visual Studio Code       40 hrs 26 mins   █████████████████████████   100.00 %
 
 OS:
-Windows                  27 hrs 42 mins   ███████████████░░░░░░░░░░   63.70 %
-Mac                      15 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.30 %
+Windows                  29 hrs 41 mins   ██████████████████░░░░░░░   73.44 %
+Mac                      10 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   26.56 %
 ```
 
-*Last updated: 09/08/2026 00:12:18 UTC*
+*Last updated: 10/08/2026 00:13:14 UTC*
 <!--END_SECTION:waka-->
