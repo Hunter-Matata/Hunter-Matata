@@ -77,22 +77,22 @@ Public repos             4
 Private repos            68
 
 
-Total this week   52 hrs 42 mins
+Total this week   48 hrs 26 mins
 
 Languages:
-TypeScript               23 hrs 25 mins   ███████████░░░░░░░░░░░░░░   44.08 %
-Python                   16 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   31.00 %
-JavaScript               5 hrs 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Go                       2 hrs 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.63 %
-Markdown                 1 hr 18 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46 %
+TypeScript               21 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.64 %
+Python                   13 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
+JavaScript               5 hrs 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Go                       2 hrs 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   5.00 %
+YAML                     1 hr 32 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14 %
 
 Editors:
-Visual Studio Code       53 hrs 9 mins    █████████████████████████   100.00 %
+Visual Studio Code       48 hrs 49 mins   █████████████████████████   100.00 %
 
 OS:
-Windows                  50 hrs 32 mins   ███████████████████████░░   95.10 %
-Mac                      2 hrs 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.90 %
+Windows                  46 hrs 12 mins   ███████████████████████░░   94.66 %
+Mac                      2 hrs 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   5.34 %
 ```
 
-*Last updated: 14/08/2026 00:18:02 UTC*
+*Last updated: 15/08/2026 00:07:58 UTC*
 <!--END_SECTION:waka-->
