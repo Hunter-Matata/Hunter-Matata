@@ -70,32 +70,32 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       3850
+Contributions 2026       3861
 Current streak           0 days
 Longest streak           63 days
 Public repos             4
 Private repos            69
 
 
-Total this week   21 hrs 40 mins
+Total this week   32 hrs 4 mins
 
 Languages:
-TypeScript               11 hrs 33 mins   █████████████░░░░░░░░░░░░   53.10 %
-Python                   6 hrs 14 mins    ███████░░░░░░░░░░░░░░░░░░   28.72 %
-SQL                      50 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.87 %
-Bash                     44 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41 %
-JSON                     26 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01 %
+Python                   14 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.81 %
+TypeScript               11 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   36.59 %
+JSON                     1 hr 2 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24 %
+SQL                      1 hr             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14 %
+Markdown                 59 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09 %
 
 Editors:
-Visual Studio Code       16 hrs 29 mins   ██████████████████░░░░░░░   75.73 %
-Codex Vscode             5 hrs 8 mins     █████░░░░░░░░░░░░░░░░░░░░   23.60 %
-CLion                    8 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65 %
-IntelliJ IDEA            0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02 %
+Visual Studio Code       25 hrs 41 mins   ███████████████████░░░░░░   79.44 %
+Codex Vscode             6 hrs 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+CLion                    8 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44 %
+IntelliJ IDEA            0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01 %
 
 OS:
-Windows                  12 hrs 25 mins   ██████████████░░░░░░░░░░░   57.12 %
-Mac                      9 hrs 19 mins    ██████████░░░░░░░░░░░░░░░   42.88 %
+Mac                      19 hrs 15 mins   ██████████████░░░░░░░░░░░   59.58 %
+Windows                  13 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   40.42 %
 ```
 
-*Last updated: 25/08/2026 00:08:23 UTC*
+*Last updated: 26/08/2026 00:08:34 UTC*
 <!--END_SECTION:waka-->
