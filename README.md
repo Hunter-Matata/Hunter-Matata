@@ -77,24 +77,24 @@ Public repos             4
 Private repos            69
 
 
-Total this week   29 hrs 8 mins
+Total this week   24 hrs 39 mins
 
 Languages:
-TypeScript               20 hrs 47 mins   █████████████████░░░░░░░░   69.70 %
-Markdown                 1 hr 25 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76 %
-C++                      1 hr 13 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.13 %
-Python                   1 hr 4 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %
-Bash                     59 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.30 %
+TypeScript               17 hrs 6 mins    ████████████████░░░░░░░░░   67.84 %
+Markdown                 1 hr 25 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.63 %
+C++                      1 hr 13 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.89 %
+CSS                      57 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.83 %
+Bash                     50 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35 %
 
 Editors:
-Visual Studio Code       29 hrs 48 mins   ████████████████████████░   99.88 %
-CLion                    1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11 %
+Visual Studio Code       25 hrs 11 mins   ████████████████████████░   99.88 %
+CLion                    1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13 %
 IntelliJ IDEA            0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 OS:
-Mac                      15 hrs 30 mins   ████████████░░░░░░░░░░░░░   51.99 %
-Windows                  14 hrs 19 mins   ████████████░░░░░░░░░░░░░   48.01 %
+Mac                      14 hrs 14 mins   ██████████████░░░░░░░░░░░   56.51 %
+Windows                  10 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   43.49 %
 ```
 
-*Last updated: 06/09/2026 00:17:46 UTC*
+*Last updated: 07/09/2026 00:17:24 UTC*
 <!--END_SECTION:waka-->
