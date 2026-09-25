@@ -70,31 +70,31 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       4289
+Contributions 2026       4300
 Current streak           0 days
 Longest streak           63 days
 Public repos             4
-Private repos            71
+Private repos            72
 
 
-Total this week   28 hrs 30 mins
+Total this week   29 hrs 53 mins
 
 Languages:
-TypeScript               13 hrs 37 mins   ███████████░░░░░░░░░░░░░░   47.60 %
-Java                     4 hrs            ███░░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Python                   2 hrs 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   7.11 %
-JavaScript               1 hr 48 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33 %
-Elixir                   1 hr 28 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.17 %
+TypeScript               9 hrs 48 mins    ████████░░░░░░░░░░░░░░░░░   32.56 %
+Java                     4 hrs            ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+C++                      3 hrs 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Elixir                   2 hrs 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.14 %
+Python                   2 hrs 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   6.72 %
 
 Editors:
-Visual Studio Code       27 hrs 19 mins   ███████████████████████░░   95.47 %
-CLion                    44 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61 %
-IntelliJ IDEA            33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93 %
+Visual Studio Code       28 hrs 19 mins   ███████████████████████░░   93.91 %
+CLion                    1 hr 16 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   4.26 %
+IntelliJ IDEA            33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83 %
 
 OS:
-Mac                      15 hrs 23 mins   █████████████░░░░░░░░░░░░   53.79 %
-Windows                  13 hrs 13 mins   ███████████░░░░░░░░░░░░░░   46.21 %
+Windows                  18 hrs 6 mins    ███████████████░░░░░░░░░░   60.06 %
+Mac                      12 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   39.94 %
 ```
 
-*Last updated: 24/09/2026 00:15:02 UTC*
+*Last updated: 25/09/2026 00:16:18 UTC*
 <!--END_SECTION:waka-->
