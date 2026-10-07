@@ -70,30 +70,30 @@
 <!--START_SECTION:waka-->
 ```text
 GitHub:
-Contributions 2026       4751
+Contributions 2026       4754
 Current streak           0 days
 Longest streak           63 days
 Public repos             4
 Private repos            79
 
 
-Total this week   53 hrs 2 mins
+Total this week   53 hrs 49 mins
 
 Languages:
-TypeScript               26 hrs 48 mins   ███████████░░░░░░░░░░░░░░   47.00 %
-Elixir                   6 hrs 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Markdown                 5 hrs 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   8.81 %
-Other                    3 hrs 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   7.01 %
-Python                   3 hrs 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   5.59 %
+TypeScript               31 hrs 47 mins   ██████████████░░░░░░░░░░░   56.25 %
+Elixir                   6 hrs 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Markdown                 4 hrs 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   7.43 %
+Other                    2 hrs 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.77 %
+CSS                      2 hrs 5 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.70 %
 
 Editors:
-Visual Studio Code       56 hrs 30 mins   ████████████████████████░   99.07 %
-Opencode Cli             32 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94 %
+Visual Studio Code       55 hrs 47 mins   ████████████████████████░   98.68 %
+Opencode Cli             44 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32 %
 
 OS:
-Mac                      52 hrs 37 mins   ███████████████████████░░   92.26 %
-Windows                  4 hrs 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   7.74 %
+Mac                      55 hrs 54 mins   ████████████████████████░   98.89 %
+Windows                  37 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11 %
 ```
 
-*Last updated: 06/10/2026 00:16:53 UTC*
+*Last updated: 07/10/2026 00:17:55 UTC*
 <!--END_SECTION:waka-->
