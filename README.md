@@ -77,22 +77,21 @@ Public repos             4
 Private repos            80
 
 
-Total this week   54 hrs 57 mins
+Total this week   53 hrs 34 mins
 
 Languages:
-TypeScript               21 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   38.11 %
-C++                      18 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   33.15 %
-Markdown                 6 hrs 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Python                   3 hrs 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   6.47 %
-Elixir                   1 hr 49 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29 %
+C++                      20 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.95 %
+TypeScript               17 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   31.89 %
+Markdown                 7 hrs 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Python                   4 hrs 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.99 %
+Elixir                   1 hr 5 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02 %
 
 Editors:
-Visual Studio Code       55 hrs 36 mins   ████████████████████████░   99.92 %
-Opencode Cli             2 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
+Visual Studio Code       54 hrs 15 mins   █████████████████████████   100.00 %
 
 OS:
-Mac                      55 hrs 38 mins   █████████████████████████   100.00 %
+Mac                      54 hrs 14 mins   █████████████████████████   100.00 %
 ```
 
-*Last updated: 15/10/2026 00:14:40 UTC*
+*Last updated: 16/10/2026 00:14:23 UTC*
 <!--END_SECTION:waka-->
