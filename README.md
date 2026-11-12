@@ -77,22 +77,22 @@ Public repos             4
 Private repos            88
 
 
-Total this week   25 hrs 1 min
+Total this week   35 hrs 2 mins
 
 Languages:
-TypeScript               7 hrs 20 mins    ███████░░░░░░░░░░░░░░░░░░   29.04 %
-Rust                     5 hrs 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Java                     3 hrs 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Svelte                   3 hrs 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Markdown                 2 hrs 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+TypeScript               16 hrs 17 mins   ███████████░░░░░░░░░░░░░░   46.09 %
+Rust                     5 hrs 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Java                     3 hrs 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Svelte                   3 hrs 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68 %
+Markdown                 2 hrs 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.10 %
 
 Editors:
-Visual Studio Code       25 hrs 7 mins    ████████████████████████░   99.93 %
-Codex Exec               1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
+Visual Studio Code       35 hrs 10 mins   ████████████████████████░   99.94 %
+Codex Exec               1 min            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05 %
 
 OS:
-Mac                      25 hrs 8 mins    █████████████████████████   100.00 %
+Mac                      35 hrs 10 mins   █████████████████████████   100.00 %
 ```
 
-*Last updated: 11/11/2026 00:09:59 UTC*
+*Last updated: 12/11/2026 00:09:59 UTC*
 <!--END_SECTION:waka-->
